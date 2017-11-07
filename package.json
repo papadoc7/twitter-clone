@@ -1,5 +1,24 @@
 {
   "name": "twitter-clone",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "events": "^1.1.1",
+    "flux": "^3.1.3"
+  },
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgios Pap",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2"
+  }
 }
