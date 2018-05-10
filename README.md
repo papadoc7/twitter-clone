@@ -21,6 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* TwitterClone is a react on rails example according to this Pluralsight [course](https://app.pluralsight.com/library/courses/reactjs-on-rails-building-full-stack-web-app/table-of-contents)
-
 * ... 
